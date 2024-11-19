@@ -6,5 +6,5 @@
 ![SCP: Reborn Menu](image/log.gif)
 
 
-*Aktualnie wszystkie pliki projektu są tymczasowo niedostępne :(.*
+*Aktualnie wszystkie pliki projektu są tymczasowo niedostępne :(*
 ---
