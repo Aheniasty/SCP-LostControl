@@ -5,6 +5,9 @@
 
 ![SCP: Reborn Menu](image/log.gif)
 
+##Twórcy 
+- Ahen
+
 
 *Aktualnie wszystkie pliki projektu są tymczasowo niedostępne :(*
 ---
